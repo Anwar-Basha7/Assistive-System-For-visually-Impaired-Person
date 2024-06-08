@@ -40,7 +40,9 @@ Ensure you have the following installed:
    cd Assistive-System-For-visually-Impaired-Person
 
 ### Usage
- Before Running the project you need to ensure that you all the requiered files including the best.pt and the pickle files genrated during the training of the model
+ Before Running the project you need to ensure that you have all the requiered files including the best.pt and the pickle files genrated during the training of the 
+ model for object recognition and face recognition.
+ 
  run the code using below command
 
    python main.py
