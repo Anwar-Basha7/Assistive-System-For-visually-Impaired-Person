@@ -1,4 +1,4 @@
-# Assistive System For Visually Impaired Person
+![Screenshot (29) (2)](https://github.com/Anwar-Basha7/Assistive-System-For-visually-Impaired-Person/assets/147406217/50f5f69d-e70c-4c99-8180-1f50ff50c1e6)# Assistive System For Visually Impaired Person
 
 This repository showcases the implementation of object detection, face recognition, and text-to-speech models, integrated into a unified system aimed at assisting visually impaired individuals.
 
@@ -59,6 +59,9 @@ Run the code using the following command:
 
 
 ## Results
+![Screenshot (32) (1)](https://github.com/Anwar-Basha7/Assistive-System-For-visually-Impaired-Person/assets/147406217/83991add-ddd9-49bb-9b3e-e06fb3df5d99)
+![Screenshot (29) (2)](https://github.com/Anwar-Basha7/Assistive-System-For-visually-Impaired-Person/assets/147406217/aa7b62bc-b112-4798-9082-396b29117749)
+
 
 
 
