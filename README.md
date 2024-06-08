@@ -41,7 +41,7 @@ Ensure you have the following installed:
 
 ### Usage
  Before Running the project you need to ensure that you all the requiered files including the best.pt and the pickle files genrated during the training of the model
- # run the code using below command
+ run the code using below command
 
    python main.py
  
