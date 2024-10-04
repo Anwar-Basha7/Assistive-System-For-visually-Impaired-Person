@@ -23,7 +23,6 @@ This project integrates multiple technologies to assist visually impaired indivi
 - **Object Detection**: Identifies and labels objects in real-time.
 - **Face Recognition**: Recognizes and identifies known faces.
 - **Text-to-Speech**: Converts detected information into spoken words.
-- 
 ###  System Architecture
 ![arch](https://github.com/Anwar-Basha7/Assistive-System-For-visually-Impaired-Person/assets/147406217/06826a52-46d9-479c-9bff-7834e5fb64bf)
 
